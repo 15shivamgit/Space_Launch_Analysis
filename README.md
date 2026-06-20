@@ -472,7 +472,7 @@ python eda_analyzer.py
 
 # 👨‍💻 Author
 
-Pranaw Gautam
+Shivvam Kumar
 
 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization | Business Intelligence
 
